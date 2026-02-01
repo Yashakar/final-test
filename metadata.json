@@ -1,0 +1,8 @@
+{
+  "name": "CloudOps Pro Dashboard",
+  "description": "Production-ready multi-tenant server management platform with Next.js, Clerk, and Prisma isolation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
